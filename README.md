@@ -1,0 +1,2 @@
+# bot-clear
+Clear everything
